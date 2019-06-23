@@ -1,0 +1,15 @@
+body {
+    background: #ffffff;
+    link: white;
+    vlink: white;
+}
+
+form {
+    width: 320px;
+    padding: 60px 25px 80px;
+    margin: 50px auto;
+    background: #E0FAFF;
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+}
