@@ -10,10 +10,12 @@
 </head>
 <body>
 <form>
+         <button type="button" class="btn_pageback">뒤로가기</button> 
          <button type="button" class="btn_exit">종료</button>
          <button type="button" class="btn_roomlist">방 목록</button>
          <button type="button" class="btn_createloom">방 만들기</button>
-         <button type="button" class="btn_userblock">차단</button>  
+         <button type="button" class="btn_userblock">차단</button> 
+         
 </form>
     <script text="text/javascript"></script>
 </body>
